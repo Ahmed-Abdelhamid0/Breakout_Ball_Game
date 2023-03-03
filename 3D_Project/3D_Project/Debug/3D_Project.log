@@ -1,0 +1,17 @@
+﻿Build started 1/12/2021 1:35:00 PM.
+     1>Project "E:\First Semester 4rd year 2020-2021\Three Dimensional Graphics\Three Dimentional Project\3D_Project\3D_Project\3D_Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\3D_Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         3D_Project.vcxproj -> E:\First Semester 4rd year 2020-2021\Three Dimensional Graphics\Three Dimentional Project\3D_Project\Debug\3D_Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\3D_Project.unsuccessfulbuild".
+         Touching "Debug\3D_Project.lastbuildstate".
+     1>Done Building Project "E:\First Semester 4rd year 2020-2021\Three Dimensional Graphics\Three Dimentional Project\3D_Project\3D_Project\3D_Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
